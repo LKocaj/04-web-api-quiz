@@ -3,7 +3,7 @@
 ## About the Project
 
 ## Built with:
-∙#### HTML
+#### ∙HTML
 #### ∙CSS
 #### ∙JavaScript
 
