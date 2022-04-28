@@ -20,5 +20,7 @@ https://lkocaj.github.io/Web-APIs-Code-Quiz/
 ## Contact Information
 
 email: lawrencecaj@gmail.com
+<br>
 linkedIn: Lawrence Kocaj
+<br>
 github: https://github.com/LKocaj
