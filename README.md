@@ -3,9 +3,9 @@
 ## About the Project
 
 ## Built with:
-#### HTML
-#### CSS
-#### JavaScript
+∙#### HTML
+#### ∙CSS
+#### ∙JavaScript
 
 ## Screenshot
 
